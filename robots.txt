@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/images/hotels/
+
+Sitemap: https://airdubai-international.free.nf/sitemap.xml
