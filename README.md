@@ -5,7 +5,7 @@
 Regional office of DivineConsultancy SMC Private Limited. Specializing in Hajj & Umrah packages, China visa consultancy, Malaysia visa services, study abroad programs, and global travel solutions.
 
 ## 🌐 Live Site
-[https://airdubai-international.vercel.app/](https://airdubai-international.vercel.app/)
+[https://airdubaitravels.vercel.app/](https://airdubaitravels.vercel.app/)
 
 ## 📄 Pages
 - **Home** (`index.html`) — Landing page with services overview, testimonials, FAQ
