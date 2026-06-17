@@ -23,9 +23,9 @@ Regional office of DivineConsultancy SMC Private Limited. Specializing in Hajj &
 
 ## 📋 Features
 - Mobile-responsive design
-- SEO-optimized (meta tags, JSON-LD, sitemap, robots.txt, GSC verified)
-- Google Search Console verified
-- Clean URLs via `.htaccess`
+- SEO-optimized (meta tags, JSON-LD, sitemap, robots.txt)
+- AI-ready structured data (Schema.org, speakable, Open Graph)
+- Clean URLs via Vercel config
 - WhatsApp integration
 - Multi-office locations (Pakistan, UK, Turkey, China, Malaysia, Romania)
 
