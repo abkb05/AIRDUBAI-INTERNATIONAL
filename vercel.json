@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/hajj-umrah.html", "destination": "/hajj-umrah", "permanent": true },
+    { "source": "/visa-services.html", "destination": "/visa-services", "permanent": true },
+    { "source": "/about-contact.html", "destination": "/about-contact", "permanent": true }
+  ]
+}
