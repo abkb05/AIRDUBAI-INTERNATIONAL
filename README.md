@@ -38,7 +38,6 @@ Regional office of DivineConsultancy SMC Private Limited. Specializing in Hajj &
 ├── .htaccess
 ├── robots.txt
 ├── sitemap.xml
-├── googleec9c9118b41cf3b9.html  (GSC verification)
 ├── assets/
 │   ├── images/
 │   │   ├── logo/
